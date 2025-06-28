@@ -75,7 +75,7 @@ This project was built to:
 
 ## 📝 Future Improvements
 
-* Edit note functionality
+* Edit note functionality.
 * Persistent storage using localStorage or backend integration
 * Authentication to save user-specific notes
 * Search and filter notes
